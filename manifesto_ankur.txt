@@ -1,0 +1,12 @@
+Open Source Manifesto
+Generated on: 26 March 2026
+
+I believe in the power of open source.
+Using tools like Linux, I understand the importance of collaboration and
+transparency.
+To me, freedom means choice, and it should be reflected in the software we
+use.
+In the future, I aim to build an operating system and share it with the world.
+I support open knowledge, innovation, and community-driven development.
+
+-- ankur
